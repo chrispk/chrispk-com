@@ -17,7 +17,7 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
         {% if post.album.size > 0 %}
-          <a class="post-link" href="{{ post.url | relative_url }}"><img title="{{ post.title | escape }}" src="{{ post.album[0] }}" alt=""></a>
+          <a class="post-link" href="{{ post.url | relative_url }}"><img title="{{ post.title | escape }}" src="{{ post.album[0].src }}_c.jpg" alt="post.album[0].alt"></a>
         {% endif %}
       </li>
     {% endfor %}
