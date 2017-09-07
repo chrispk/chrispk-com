@@ -13,24 +13,24 @@ album:
 - title: "City Sphere" #2
   src: "https://c1.staticflickr.com/5/4417/36032914354_1601899db2"
   alt: "What looks like a city condensed onto sphere and erected on scaffolding"
-- title: "Dec, Max and Netta" #3
-  src: "https://c1.staticflickr.com/5/4405/36058515543_447d87515c"
-  alt: "Birdseye shot of friends"
-- title: "Group at festival" #4
+- title: "Group at festival" #3
   src: "https://c1.staticflickr.com/5/4374/36729910021_acf1195bd5"
   alt: "Group photo of some festival goers"
-- title: "Woman, alone" #5
+- title: "Woman, alone" #4
   src: "https://c1.staticflickr.com/5/4367/36035337494_f0ca08dc2d"
   alt: "One of the festival goers putting on a bit of exasperation"
-- title: "Dec and Freya" #6
+- title: "Dec and Freya" #5
   src: "https://c1.staticflickr.com/5/4435/36729798841_537f25493e"
   alt: "Dec and Freya looking too cool for SGP"
-- title: "Long grass at sunset" #7
+- title: "Long grass at sunset" #6
   src: "https://c1.staticflickr.com/5/4424/36035248844_6c744c7a3a"
   alt: "Sunset behind long grass whilst working on The Boneyard"
-- title: "The sky at Secret Garden Party" #8
+- title: "The sky at Secret Garden Party" #7
   src: "https://c1.staticflickr.com/5/4414/36698892412_13cf21d83e"
   alt: "Clouds coloured by sunset"
+- title: "Another day at the boneyard"
+  src: "https://c1.staticflickr.com/5/4415/36061224923_63d084c559"
+  alt: "A black shirt hangs on a chair accompanied by a black trilby hat."
 excerpt: 
 ---
 {% assign image = page.album[1] %}{% include print_album_image.html %}
@@ -52,24 +52,26 @@ Another are peice...
 
 {% assign image = page.album[3] %}{% include print_album_image.html %}
 
-Dec, Max and Netta... I seem to remember exploring a maze like tent with different rooms and adjoining tunnels before finding this nearby table to sit around.
+I've no idea who these people were. I think I said I'd get this photo to them... somehow.
 
 {% assign image = page.album[4] %}{% include print_album_image.html %}
 
-I've no idea who these people were. I think I said I'd get this photo to them... somehow.
+One of the woman in the group pictured above.
 
 {% assign image = page.album[5] %}{% include print_album_image.html %}
 
-One of the woman in the group pictured above.
+Taken during a visit from Dec and Freyja whilst on shift at *The Boneyard*.
 
 {% assign image = page.album[6] %}{% include print_album_image.html %}
 
-Taken during a visit from Dec and Freyja whilst on shift at *The Boneyard*.
+I worked shifts at the *The Boneyard*, an equipment store for festival build and maintenence. As the festival was built and maintenence was sparce there was quite a lot of time for photography experimentation and maybe some sleeping.
 
 {% assign image = page.album[7] %}{% include print_album_image.html %}
 
-Not much happened at *The Boneyard* (the equipment store for festival build and maintenence). This left quite a lot of time for photography experimentation and maybe some sleeping.
+Whilst the vivid colours here are pretty I particularly like the way the tungsten bulbs are exposed against the sky, capturing the lighting and tone of magic hour.
 
 {% assign image = page.album[8] %}{% include print_album_image.html %}
 
-Whilst the vivid colours here are pretty I particularly like the way the tungsten bulbs are exposed against the sky, capturing the lighting and tone of magic hour.
+Not a lot happened at *The Boneyard*.
+
+{% assign image = page.album[8] %}{% include print_album_image.html %}

@@ -24,7 +24,7 @@ url: "http://chrispk.com" # the base hostname & protocol for your site, e.g. htt
 permalink: /:year/:title/
 twitter_username: chrispykay
 github_username:  chrispk
-
+google_analytics: UA-49230171-1
 # Build settings
 markdown: kramdown
 theme: minima
