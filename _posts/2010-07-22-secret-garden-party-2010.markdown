@@ -73,5 +73,3 @@ Whilst the vivid colours here are pretty I particularly like the way the tungste
 {% assign image = page.album[8] %}{% include print_album_image.html %}
 
 Not a lot happened at *The Boneyard*.
-
-{% assign image = page.album[8] %}{% include print_album_image.html %}
