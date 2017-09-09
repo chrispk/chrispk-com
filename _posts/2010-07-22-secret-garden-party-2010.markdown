@@ -14,7 +14,7 @@ album:
   src: "https://c1.staticflickr.com/5/4417/36032914354_1601899db2"
   alt: "What looks like a city condensed onto sphere and erected on scaffolding"
 - title: "Group at festival" #3
-  src: "https://c1.staticflickr.com/5/4374/36729910021_acf1195bd5"
+  src: "https://c1.staticflickr.com/5/4374/36729910021_7cc3076c35"
   alt: "Group photo of some festival goers"
 - title: "Woman, alone" #4
   src: "https://c1.staticflickr.com/5/4367/36035337494_f0ca08dc2d"
@@ -28,8 +28,8 @@ album:
 - title: "The sky at Secret Garden Party" #7
   src: "https://c1.staticflickr.com/5/4414/36698892412_13cf21d83e"
   alt: "Clouds coloured by sunset"
-- title: "Another day at the boneyard"
-  src: "https://c1.staticflickr.com/5/4415/36061224923_63d084c559"
+- title: "Another day at 'The Boneyard'"
+  src: "https://c1.staticflickr.com/5/4415/36061224923_b7c3b69e2a"
   alt: "A black shirt hangs on a chair accompanied by a black trilby hat."
 excerpt: 
 ---
