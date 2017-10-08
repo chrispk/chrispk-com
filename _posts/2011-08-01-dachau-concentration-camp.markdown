@@ -35,7 +35,7 @@ Remains of Dachau Concentration Camp's fence in the foreground and barracks in t
 
 {% assign image = page.album[4] %}{% include print_album_image.html %}
 
-I felt this artifact was slightly more upsetting than the rest of Dachau's museum. If I recall correctly this was an actual cane used when the concentration camp was in operation.
+I felt this exhibit was slightly more upsetting than the rest of Dachau's museum. If I recall correctly this was an actual cane used when the concentration camp was in operation.
 
 {% assign image = page.album[0] %}{% include print_album_image.html %}
 
