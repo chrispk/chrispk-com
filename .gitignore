@@ -4,3 +4,4 @@ _site
 .ruby-version
 *.sublime-project
 *.sublime-workspace
+.DS_Store
