@@ -14,7 +14,7 @@
   {% include google-analytics.html %}
   {% endif %}
 
-  {% if jekyll.environment == 'production' and site.google_adsense %}
+  {% if jekyll.environment == 'production' and site.google_adsense and not page.layout == 'home' %}
   {% include google-adsense.html %}
   {% endif %}
 </head>
