@@ -1,0 +1,34 @@
+---
+title: Fair Belles (2011)
+layout: post
+categories: 16mm
+album:
+- title: "Fair Belles (2011) - Adelita and client (end shot)"
+  src: "https://lh3.googleusercontent.com/whWw_V_cZVB9bfP2O7jrGNJ_C2ZgjLlrsxlTTm1uz9EOmd-8qJUWNpt_scRQxynjzUM84TCZ0iPrnP2tfS48F_oTpemlkpdqgYb68gt1o0kPGVgYeJhcSimtCyEUEM0Rgg1-6Umd27olsG3RiHZWF7NVlrUqHbGx8TcsvuVEuoQZjMu3_U3yvRSt-9KudY5iDGiH5S-MxVkQ0dpTfaP9HANrSKLWF4D13ZDM6XctrJn1Khkfa4_DPnkODCNQnBTIIY1OFYqRVude7nRchT0e1CVjdiD2LVgmlt1qZLF-Btr0ZaFa3qs_XFVfZKsEdmdNY4s9_IOrV4shtP19ENPyTnb_HtY98qsosSoFMNaJEKThDjs0nrT2Ga8Bpxn9I-1XNzoNKChQR3t0NrT_LcOqeLqnCgVKwrC28iPZqE3XpLZYZUzNtiZkhN0aykz7mWSfKjQf58yrFtMT8pmtrpHQz_J7DoKtkTvKhruaVQauRr6o2zUXroufRjpCOyZUbf93tdwWEt07q14tzx9rBSWxwOhfMb0OzssBjjIlArsSHrmaqOSynsHp3FknLgJgZ6qQdWQjOMjSaowPmrfsjzrg-I3-0GwEvwglGr_RohA"
+  alt: 
+  url: 
+- title: "Fair Belles (2011) - Mexican chillies (establishing shot)"
+  src: "https://lh3.googleusercontent.com/LhDc7E0QfXwJ8x-I23UHZLcjr5lY-LA7amFtB5mcVAQTjZVGWRRpOYqe4XQHqmDdou_czuSIIj3uZLOS3Ta0C3u8CymdMZ0LI-PMjyIBK4IK9-hsff_ha-aYs0ofF_s-fyN6h2I74vj7fMoqPTXgNjUXnZxjp0Lmhqj22FvBAG92c5J_E9wZA4xjyZyHaVT6nlpOIt0ncx4XP-jib0n6ktdCdKnITmQ8AqhV1HnfqnCoDATBWRHcdmiy75OQNoke6paDdWoEg-Qtm7CVrwe7NFik0EC3vn4SmpcTmjYVrBYs1brWmNkC_g-zjyJHaQL8KtB7Y1jQbFKkqDRemRPN1FFV1hGXIHFypQiSWTgEVuF5k3Z9SqBx9wfO18t9QL7ih8LxDYiR26E6sbX_s5lWFq2h8XiXXpYr99P33rrFG-iJdO0xttUOvBQwqANS_wVrquhK2KhKQMJ2ji150jnzWu4uZJQou6WKws3VVABk116vIMUkXflH0fXgM-UjkyVsU-vR9qvakEYOcdvudxSQSBa_7ihtxtSp8FKNr2UBRbfkiqi-iLSK143qRZ3tl96fcj61nxQ-0XsutA2e4GwW9fl7-nyu2BfJTXzm1lY"
+  alt: 
+  url: 
+- title: "Fair Belles (2011) - Belle (establishing shot)"
+  src: "https://lh3.googleusercontent.com/8OUT2KMSBvepQYcP0Zq_n8Mm1hm7NCLxOyTzOJHZWbZRpV-NqKWHk1X69ZSWyWDRAbTnMLrVrz8uCqFfVs89JAYE-gDqLceK9TZ_s-flVuRWnEzwcfNKKCW5wleomBUOCHGCKihB1J6SCEs8tPwQqSAWZoH0aPYbMWDjsY2AIUjE9jNvrGLuCfsxTeKi1C6q84dDUgn3YBNcnSX-_YFuO_0c2z7uWnYC9v7ygPmp8xW27StNBVhBD5bZl0dWIMQYdrxlz_0zfn1MwqVAuENLbLqGienMzBEj1Mt63qsfvuhp6AvVFQLE1OixxUivHWZcEGRQFmhz75z-AM1Mw7hvelhL9VB4g2ZI9MjP8DMjEY2jxv0Q0pqbFElZAVK__i46ONBYUQjvTlPTOTowJ4rHHnd-8ceuZAlkusitb7_s8ZYUzovelUb_XQmRMYSZmohTqA5GKibSrM6X0Km2jZyCCfzogzSG00PokWc78T4SamBpHA5NJA1IAaWaJ6Os2PkZpNxa5FMOyQNo5xhhKrvxP9BQA70dyHvsjZVZUaQ_AhV1Vae6WyvnT9FSYo4mMGj0RhQrm_irRpWX1IsNagbQCGcvpaRpGFokXkrT7zs"
+  alt: 
+  url: 
+- title: "Fair Belles (2011) - Adelita (establishing shot)"
+  src: "https://lh3.googleusercontent.com/Fa9mTRAhJm4fTOI0IfzAxD_Lke1-mI5k5gy2_rpXVYJgd3HTgCufyijLB199Nla_MKMkqzIzBgQfLnhUfelsVBmAgTiSphVkUGx2A9hKesFjG98IU_hvqLYGdxcCXoDG7IQZHrGKiatTlv4vRpukuo2bgOsfHF0CAwUXWXRvFcIfsvHgiTACF1lvvPMzVo-3-tADvJV_zU1mO619vqvER4R6GwmgMziK3Yu2xCJFJPFe3kFDfHatCzKA1-nuuobwxOKFyzS-QfHOh8EME1GRncYeuuzpstiIZRPhhl_MHMjQtlvuat20Rlc5eN4lnMPgFoflaujfP07Og7vdf03kGyiBcdvcwoGpvYnA5acu6UC17gPxdL64PZ9zCTZ8ivUHreIW9Dk5M4n5lA5cmLgvMoaedZLUmCIk-mHD1ZPtfp6J_NaIuuVQ5BzWY22DtDUOyKySARtyuxvP7a49MQeOP9Igq8Io7FhgCq5E7iwZGsFfr1Ei54nF_G8q4KwcFUrECWRDa_slRmRdbNDma3PX7FHK0nzyWh1H81E_WIKsgLM6d6dwGy1U5jUIxOd_wb6c9eUWGk92K2t12vMlzErE4Fsv97NmwHbpJVLXPZs"
+  alt: 
+  url: 
+- title: "Fair Belles (2011) - Sex scene (flashback)"
+  src: "https://lh3.googleusercontent.com/6Xa4DS3r5eJNPEaqa1Qk3XHr7h0mor2b9mRIX7mH95lOisoZPIUJ48JKWIII9FNu8pInzLSxwBNTlza3f3SLgiqNL8xwq-rBjT_tbVftYYHndoSCkCyruW1ceCDfpwtvoISE-D3Vq3c_HRWfyc5X-Wbdjwdf6AVgYkJA6lq-XcQcJweYLfatm_dhp7wU8dfk30jjik3utQ9P8dJTU7HwD7VNRK8IKUrnzPk6V7-CJeDxJvRYIRPe5Bpgkgoh8cXST47-YJNytbpi5KwRg4k7Obk8UTdo3osASRMks0nW6lJgqslB42FxS_sSJeldu10fxPfDqpXJSRLUIOos3pIoRTfytiDgWm2TLW0Nha6-XlQ8d951UTDY0O_xLwKYMzh2ciYt4bk5DhTZmXT3P7iVD_NIHiHLxoA_5vrz1MEqRT_XljL7xnu-YH79Z35wxEE-7LYuzYJsegOvRsQ3FvJDrplYV1wkcTZ4SwOqpGgdhX7xf_gXuzMIWj8GgZxgB5lB9g8NPuZWaZmfC9dHF0xGuN-taqrWTR60pA_5w63pxjUh-9F2hAk6AVCHyVLe78sVj01MBpaRq8YZQumJ9AhnpOp-CA62Swwd8hriZYQ"
+  alt: 
+  url: 
+---
+
+{% assign image = page.album[1] %}{% include print_album_image.html %}
+
+{% assign image = page.album[2] %}{% include print_album_image.html %}
+
+{% assign image = page.album[3] %}{% include print_album_image.html %}
+
+{% assign image = page.album[4] %}{% include print_album_image.html %}
