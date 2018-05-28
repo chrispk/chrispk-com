@@ -23,6 +23,10 @@ album:
   src: "https://lh3.googleusercontent.com/6Xa4DS3r5eJNPEaqa1Qk3XHr7h0mor2b9mRIX7mH95lOisoZPIUJ48JKWIII9FNu8pInzLSxwBNTlza3f3SLgiqNL8xwq-rBjT_tbVftYYHndoSCkCyruW1ceCDfpwtvoISE-D3Vq3c_HRWfyc5X-Wbdjwdf6AVgYkJA6lq-XcQcJweYLfatm_dhp7wU8dfk30jjik3utQ9P8dJTU7HwD7VNRK8IKUrnzPk6V7-CJeDxJvRYIRPe5Bpgkgoh8cXST47-YJNytbpi5KwRg4k7Obk8UTdo3osASRMks0nW6lJgqslB42FxS_sSJeldu10fxPfDqpXJSRLUIOos3pIoRTfytiDgWm2TLW0Nha6-XlQ8d951UTDY0O_xLwKYMzh2ciYt4bk5DhTZmXT3P7iVD_NIHiHLxoA_5vrz1MEqRT_XljL7xnu-YH79Z35wxEE-7LYuzYJsegOvRsQ3FvJDrplYV1wkcTZ4SwOqpGgdhX7xf_gXuzMIWj8GgZxgB5lB9g8NPuZWaZmfC9dHF0xGuN-taqrWTR60pA_5w63pxjUh-9F2hAk6AVCHyVLe78sVj01MBpaRq8YZQumJ9AhnpOp-CA62Swwd8hriZYQ"
   alt: 
   url: 
+- title: "Fair Belles (2011) - Client"
+  src: "https://lh3.googleusercontent.com/Ifa5KzQw2VqaZZWkVcryuuhZb1WRQQKHcVYXn7swdo_52ZBKqhCi563sLi672j8cijMWfA9hWfOpkI5M9kgQWsla6-v59U5VQ9VE05AfhXczQvroLzCxVMu4sZWAnrVT_zic-yA2BWhhjIhMnVD9t_STCiei_nMScvyp6MZzJhaS1dciKAoO34tfxSiZvMBO4K4MQOlX_zVvihuqjc5jwYtYVzlTGbrSQscl7QXipFbku6wtDUy2EwEf0rvki6rcyB4-YBasu2E-a18ipUgangHYwCPRhxiHnjzog86wnmHK7Od-oXcpei2rs4DDaIJL9YRve2V5QSD8rpyJZ0jN8ecAPvsnWliaj5SRk0uz6ZCmELL8fFBd2jvhR56Dj8MDFMLatwvgJ9KjroxAuoRGqoIZ2OrQxT5u92P4PX2987fdjGchC-iZfGMwvxTBLG4RmHuntc9mHjXg2GkArRyBi26sey68Mzh5zThaOlBncdkesE32iXTl9reb7at5LBsuuYuCaHVskmpApRK1nkQYqWUKdyWvZDVnBKTzfnjEZS4oaQHhuXZg1xicfI50aRGtAkfVkm8QmoqKFqTtiYEKJG8jcghFVFCrpn3KBYI"
+  alt: 
+  url:
 ---
 
 {% assign image = page.album[1] %}{% include print_album_image.html %}
@@ -32,3 +36,5 @@ album:
 {% assign image = page.album[3] %}{% include print_album_image.html %}
 
 {% assign image = page.album[4] %}{% include print_album_image.html %}
+
+{% assign image = page.album[5] %}{% assign video_src = "http://i.imgur.com/NyEer5N.mp4" %}{% include print_video_embed.html %}
